@@ -102,7 +102,7 @@ section{
 }
 
 .header{
-    position: fixed;
+    position: absolute;
     color: crimson;
     color: rgb(252, 0, 0);
     right:0px;
